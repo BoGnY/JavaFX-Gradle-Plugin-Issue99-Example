@@ -1,0 +1,23 @@
+/**
+ * vista.css
+ *   Ensure that your build system copies this file to your build output directory.
+ */
+
+#headerLabel {
+    -fx-background-color: steelblue;
+    -fx-text-fill: white;
+    -fx-padding: 5px;
+}
+
+#layoutHolder {
+    -fx-background-color: lightgrey;
+}
+
+#view1 {
+    -fx-background-color: aliceblue;
+}
+
+.button {
+    -fx-base: lightblue;
+    -fx-font-size: 20px;
+}
